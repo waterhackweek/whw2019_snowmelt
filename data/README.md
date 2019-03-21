@@ -8,11 +8,11 @@
 |curv30m.tif|30 m resolution ASO-derived curvature|1fdJ03NXwh6srHmDBTcJJNPDV8PKcHatI|
 |dem_curv_asp_30m.mat|30 m resolution ASO-derived curvature|1MKv6O_bx9zIGRebLEGgSJ5U8nDhNxQyL|
 |dem30m.tif|30 m resolution ASO-derived digital elevation model|1GTVhP19VF-srNxF50cZH9gTY7yz0I402|
-|no_veg_bin30res.mat|30 m resolution vegetation mask (veg=0| noveg=1)|1KQOzUJRy5oll61LrcLbjggE8t23XjJg2|
-|no_veg_bin30res.tif|30 m resolution vegetation mask (veg=0| noveg=1)|1fApstXzUWNs-oaFjFCOyX575cR4Fow51|
+|no_veg_bin30res.mat|30 m resolution vegetation mask (veg=0, noveg=1)|1KQOzUJRy5oll61LrcLbjggE8t23XjJg2|
+|no_veg_bin30res.tif|30 m resolution vegetation mask (veg=0, noveg=1)|1fApstXzUWNs-oaFjFCOyX575cR4Fow51|
 |README.md|this file|1RL17iWpDvBNZ5O4hNjNnGluwRtlIaQ0a|
-|scene_30m_mask.mat|30 m resolution Tuolumne River Basin mask (TRB=1| outside TRB=nan)|10ETIo4keFERyf2s53dJW_G32iftjpNvR|
-|scene_30m_mask.tif|30 m resolution Tuolumne River Basin mask (TRB=1| outside TRB=nan)|1h1vOgFG8vQnx0uB-N3EQ72QTfhpNYcDX|
+|scene_30m_mask.mat|30 m resolution Tuolumne River Basin mask (TRB=1, outside TRB=nan)|10ETIo4keFERyf2s53dJW_G32iftjpNvR|
+|scene_30m_mask.tif|30 m resolution Tuolumne River Basin mask (TRB=1, outside TRB=nan)|1h1vOgFG8vQnx0uB-N3EQ72QTfhpNYcDX|
 |snow_depth_30m_2014_2017_r.mat|30 m resolution ASO snow depth rasters|16pxYTFaSzi7Up9O1e75Q3o4G574Ge0QI|
 |TB20140323_SUPERsnow_depth.tif_mean30m.tif|30 m resolution ASO snow depth raster|1LEAAs4N9dinQHbdakdghNrDHtH0_dUag|
 |TB20140407_SUPERsnow_depth.tif_mean30m.tif|30 m resolution ASO snow depth raster|1z6I8lJJaBG0yAZxkI0qDMNB58-xO4srB|
@@ -51,5 +51,5 @@
 |TE20170303_SUPERsnow_depth.tif_mean30m.tif|30 m resolution ASO snow depth raster|1zl44bB56bKpAxEaKKbk1IWg-pzADJipH|
 |TE20170401_SUPERsnow_depth_.tif_mean30m.tif|30 m resolution ASO snow depth raster|1NqoHCtzuYnex7h-udjQfL6Ar9haZK8z5|
 |test_upload.py|sample python script for reading .mat files|1lgFLpdYDoKp-KakpMrTbweHXFo9wHVy8|
-|veg_bin30res.mat|30 m resolution vegetation mask (veg=0| noveg=1)|1MCdf_nfl59DWS1-nJDUQ2TumfF_qXMas|
-|veg_bin30res.tif|30 m resolution vegetation mask (veg=0| noveg=1)|1NGP3bVWtOeYrro8NiPsscwzZve26McUv|
+|veg_bin30res.mat|30 m resolution vegetation mask (veg=0, noveg=1)|1MCdf_nfl59DWS1-nJDUQ2TumfF_qXMas|
+|veg_bin30res.tif|30 m resolution vegetation mask (veg=0, noveg=1)|1NGP3bVWtOeYrro8NiPsscwzZve26McUv|
