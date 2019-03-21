@@ -24,6 +24,8 @@ Slack channel: [#snowmelt](#)
 Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow depth across a watershed
 * Snow depth (30m, ASO lidar-derived) 2014 - 2016
 * DEM (30m, ASO lidar-derived)
+* [data readme](https://github.com/waterhackweek/whw2019_snowmelt/tree/master/data)
+* [data on google drive](https://drive.google.com/drive/folders/1wDo9Xc2FYYhxTw9HUvVxhX7I8XEYYnv7?usp=sharing)
 
 ---
 
