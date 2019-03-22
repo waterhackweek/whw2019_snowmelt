@@ -24,8 +24,9 @@ Slack channel: [#snowmelt](#)
 Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow depth across a watershed
 * Snow depth (30m, ASO lidar-derived) 2014 - 2016
 * DEM (30m, ASO lidar-derived)
-* [data readme](https://github.com/waterhackweek/whw2019_snowmelt/tree/master/data)
-* [data on google drive](https://drive.google.com/drive/folders/1wDo9Xc2FYYhxTw9HUvVxhX7I8XEYYnv7?usp=sharing)
+* [Data readme](https://github.com/waterhackweek/whw2019_snowmelt/tree/master/data)
+* [Google drive folder](https://drive.google.com/drive/folders/1wDo9Xc2FYYhxTw9HUvVxhX7I8XEYYnv7?usp=sharing)
+* [Data access demo notebook](https://nbviewer.jupyter.org/github/waterhackweek/whw2019_snowmelt/blob/master/data/data-access-demo.ipynb)
 
 ---
 
@@ -41,6 +42,7 @@ Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow
 ### Existing Methods/Tools and Prior Work:
 * https://github.com/NCristea/NCristeaGEE 
 * https://github.com/geohackweek/ghw2018_snowmelt
+
 
 ---
 
