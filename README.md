@@ -2,7 +2,7 @@
 ### With Airborne Snow Observatory (ASO) Lidar Data
 ### Waterhackweek 2019
 
-Slack channel: [#snowmelt](#)
+Slack channel: [#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)
 
 ---
 
