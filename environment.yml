@@ -8,6 +8,13 @@ dependencies:
         - python=3.6
         - gdal>=2.2.3
         - rasterio>=1.0
+        - xarray=0.10.9
+        - netcdf4>=1.2.5
+        - hs_restclient
+        - cartopy
+        - pandas
+        - geopandas
+        - dask
         - cython
         - jupyter
         - matplotlib
