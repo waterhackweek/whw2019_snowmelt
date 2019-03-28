@@ -42,7 +42,7 @@ Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow
 ### Existing Methods/Tools and Prior Work:
 * https://github.com/NCristea/NCristeaGEE 
 * https://github.com/geohackweek/ghw2018_snowmelt
-* [Creating a hydroshare resource](https://gist.github.com/spestana/3038f9b9e9e34fc39ed13248ca894ef5)
+* [Creating a hydroshare resource](https://www.hydroshare.org/resource/7015162a158648ba95ff547a6eb753ba/), and [in pysumma](https://gist.github.com/spestana/3038f9b9e9e34fc39ed13248ca894ef5)
 * environment file from [Geohackweek tutorial materials](https://geohackweek.github.io/raster/01-introduction/)
 
 
