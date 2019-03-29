@@ -30,6 +30,9 @@ Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow
 
 ---
 
+![ASO Slide](https://github.com/waterhackweek/whw2019_snowmelt/blob/master/aso.PNG)
+
+---
 ### Specific Questions/Goals:
 
 ### Broader Impacts and Applicaitons: 
