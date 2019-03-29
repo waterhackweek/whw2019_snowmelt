@@ -7,16 +7,13 @@ Slack channel: [#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5
 ---
 
 ### Collaborators:
-* (Project Lead)
-* (Team Members)
-* ...
+* Lisa Katz (Project Lead)
 * Steven Pestana (spestana@uw.edu) (Data Science Lead)
 
 ---
 
 ### The Problem:
 * What are the patterns (spatial, temporal) of snowmelt in the Tuolumne River Basin?
-* ...
 
 ---
 
@@ -37,7 +34,6 @@ Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow
 
 ### Broader Impacts and Applicaitons: 
 * The winter snowpack of the Tuolumne River Basin (TRB) is a major water supply for human use in California
-* ...
 
 
 ---
@@ -52,7 +48,9 @@ Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow
 ---
 
 ### Proposed Methods/Tools:
-* ...
+* numpy
+* pandas
+* rasterio
 
 ---
 
