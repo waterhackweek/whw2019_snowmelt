@@ -1,6 +1,5 @@
-# Snowmelt
+# Waterhackweek 2019: Snowmelt
 ### With Airborne Snow Observatory (ASO) Lidar Data
-### Waterhackweek 2019
 
 Slack channel: [#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5Q)
 
@@ -14,27 +13,25 @@ Slack channel: [#snowmelt](https://waterhackweek2019.slack.com/messages/CH95VNJ5
 
 ### The Problem:
 * What are the patterns (spatial, temporal) of snowmelt in the Tuolumne River Basin?
+* Can we deliniate a snowmelt elevation band using in situ data from Dana Meadows, and an assumed air temperature lapse rate?
+
+### Specific Questions/Goals:
+* Learn how to read, plot, and manipulate ASO raster data, and time series meteorological data in python
+
+### Broader Impacts and Applicaitons: 
+* The winter snowpack of the Tuolumne River Basin (TRB) is a major water supply for human use in California
 
 ---
 
 ### Data:
 Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow depth across a watershed
-* Snow depth (30m, ASO lidar-derived) 2014 - 2016
-* DEM (30m, ASO lidar-derived)
+* Snow depth (geotiff raster at 30m resolution, ASO lidar-derived) 2014, 2015, 2016
+* DEM (geotiff raster at 30m resolution, ASO lidar-derived)
 * [Data readme](https://github.com/waterhackweek/whw2019_snowmelt/tree/master/data)
 * [Google drive folder](https://drive.google.com/drive/folders/1wDo9Xc2FYYhxTw9HUvVxhX7I8XEYYnv7?usp=sharing)
 * [Data access demo notebook](https://nbviewer.jupyter.org/github/waterhackweek/whw2019_snowmelt/blob/master/data/data-access-demo.ipynb)
 
----
-
 ![ASO Slide](https://github.com/waterhackweek/whw2019_snowmelt/blob/master/aso.PNG)
-
----
-### Specific Questions/Goals:
-
-### Broader Impacts and Applicaitons: 
-* The winter snowpack of the Tuolumne River Basin (TRB) is a major water supply for human use in California
-
 
 ---
 
@@ -44,10 +41,9 @@ Lidar from the NASA Airborne Snow Observatory provides snapshots in time of snow
 * [Creating a hydroshare resource](https://www.hydroshare.org/resource/7015162a158648ba95ff547a6eb753ba/), and [in pysumma](https://gist.github.com/spestana/3038f9b9e9e34fc39ed13248ca894ef5)
 * environment file from [Geohackweek tutorial materials](https://geohackweek.github.io/raster/01-introduction/)
 
-
 ---
 
-### Proposed Methods/Tools:
+### Python Packages Used:
 * numpy
 * pandas
 * rasterio
